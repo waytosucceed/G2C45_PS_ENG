@@ -1,0 +1,212 @@
+{
+  "heading": "Contraction",
+  "topics": [
+    {
+      "heading": "Contraction",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Complete the sentence with the correct contraction:<br> We ____ going to the zoo today.",
+          "options": [
+            { "text": "aren’t" },
+            { "text": "is'nt" },
+            { "text": "doesn’t" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Which is the contraction for \"He will\"?",
+          "options": [
+            { "text": "He’ll" },
+            { "text": "He’s" },
+            { "text": "He do’nt" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "Which is the contraction for \"She will\"?",
+          "options": [
+            { "text": "She’s" },
+            { "text": "She’ll" },
+            { "text": "She do’nt" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "Complete the sentence with the correct contraction:<br> I ____ believe in magic.",
+          "options": [
+            { "text": "don't" },
+            { "text": "isn't" },
+            { "text": "do’nt" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "Which is the contraction for \"They are\"?",
+          "options": [
+            { "text": "They are’t" },
+            { "text": "They’nt" },
+            { "text": "They’re" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 6,
+          "question": "Complete the sentence with the correct contraction:<br> I ____ believe this is the right answer.",
+          "options": [
+            { "text": "don't" },
+            { "text": "doesn't" },
+            { "text": "isn’t" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 7,
+          "question": "What is the contraction for \"I am\"?",
+          "options": [
+            { "text": "Im" },
+            { "text": "I’nt" },
+            { "text": "I’m" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Which is the contraction for \"are not\"?",
+          "options": [
+            { "text": "ar’ent" },
+            { "text": "aren’t" },
+            { "text": "are’t" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "Complete the sentence with the correct contraction:<br> They ____ coming to the party tomorrow.",
+          "options": [
+            { "text": "doesn’t" },
+            { "text": "isn't" },
+            { "text": "aren't" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "What is the contraction for \"I have\"?",
+          "options": [
+            { "text": "I’ve" },
+            { "text": "I am" },
+            { "text": "I have’t" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "Which is the contraction for \"You have\"?",
+          "options": [
+            { "text": "You are" },
+            { "text": "You’ve" },
+            { "text": "You have’t" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the correct contraction for the sentence:<br> ___ going to the park later.",
+          "options": [
+            { "text": "He’s" },
+            { "text": "He is" },
+            { "text": "She is" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank with the correct contraction:<br> She said ___ coming to the party.",
+          "options": [
+            { "text": "It’s" },
+            { "text": "She’s" },
+            { "text": "He’s" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "Choose the contraction that matches the sentence:<br> ___ my best friend in the whole world!",
+          "options": [
+            { "text": "You’re" },
+            { "text": "Your" },
+            { "text": "We’re" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Complete the sentence with the right contraction:<br> ___ going to the zoo tomorrow.",
+          "options": [
+            { "text": "Aren’t" },
+            { "text": "We’re" },
+            { "text": "Weren’t" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "Choose the correct contraction for “Has not”.",
+          "options": [
+            { "text": "Haven’t" },
+            { "text": "Has’nt" },
+            { "text": "Hasn’t" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 17,
+          "question": "Which contraction means \"Does not\"?",
+          "options": [
+            { "text": "Doesn’t" },
+            { "text": "Isn’t" },
+            { "text": "Aren’t" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "Which contraction means \"She is\"?",
+          "options": [
+            { "text": "She’s" },
+            { "text": "We’re" },
+            { "text": "It’s" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Which contraction means \"We are\"?",
+          "options": [
+            { "text": "Aren’t" },
+            { "text": "We’re" },
+            { "text": "He’s" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the contraction for \"It is.\"",
+          "options": [
+            { "text": "It’s" },
+            { "text": "I’ts" },
+            { "text": "Its" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+    }
+  ]
+}
